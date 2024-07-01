@@ -8,13 +8,13 @@
 - ⚡ Fun fact:
 - I sleep a lot,I mean a lot.
 ## Tech Stacks
-- Frontend: [List of Frontend Technologies]
-- Backend: [List of Backend Technologies]
-- Database: [List of Databases]
-- Other Tools: [List of Other Tools and Technologies]
+- Frontend: [HTML,CSS,Javascript,Tailwind Css,React]
+- Backend: [Node.js,MongoDB]
+- Database: [MySQL]
+- Other Tools: [Git,VSCode,PremierPro,AfterEffects]
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyanorussel&show_icons=true&theme=radical)
 
 ## Top Contributions
 - [Repository 1 Name](Repository 1 Link)
