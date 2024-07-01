@@ -6,7 +6,7 @@
 - you can mail me at anmolrajverma@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:
-- I sleep a lot,I mean a lot.
+- I sleep a lot.
 ## Tech Stacks
 - Frontend: [HTML,CSS,Javascript,Tailwind Css,React]
 - Backend: [Node.js,MongoDB]
