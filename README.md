@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=cyanorussel&style=for-the-badge&color=22d3ee&label=PROFILE+VISITORS" alt="Profile views" />
-<a href="https://github.com/cyanorussel?tab=followers"><img src="https://img.shields.io/github/followers/cyanorussel?style=for-the-badge&logo=github&color=6366f1&labelColor=0d1117" alt="Followers" /></a>
-<a href="https://anmolvermaporttfolio2003.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=cyanorussel&style=for-the-badge&color=1f6feb&label=PROFILE+VISITORS" alt="Profile views" />
+<a href="https://github.com/cyanorussel?tab=followers"><img src="https://img.shields.io/github/followers/cyanorussel?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Followers" /></a>
+<a href="https://anmolvermaporttfolio2003.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-388bfd?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
 
 </div>
 
@@ -62,22 +62,22 @@ const anmol = {
 
 ## 📊 GitHub Analytics
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=cyanorussel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyanorussel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&layout=compact&langs_count=8" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=cyanorussel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyanorussel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=cyanorussel&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=cyanorussel&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&sideNums=e6edf3" alt="GitHub streak" />
 
 <br/><br/>
 
 ## 🏆 Trophy Cabinet
 
-<img src="https://github-profile-trophy.vercel.app/?username=cyanorussel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=cyanorussel&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 
 <br/>
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyanorussel&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=a855f7&point=ffffff&area=true" width="95%" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyanorussel&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=2f81f7&point=58a6ff&area=true" width="95%" alt="Activity graph" />
 
 <br/>
 
@@ -103,7 +103,7 @@ const anmol = {
 
 ## ✍️ Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
 
 <br/>
 
@@ -121,6 +121,6 @@ const anmol = {
 
 > *"Debugging is twice as hard as writing the code in the first place."* — my daily reality 🐛
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:22d3ee&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,60:1f6feb,100:388bfd&height=110&section=footer" width="100%" />
 
 </div>
