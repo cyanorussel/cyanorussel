@@ -1,27 +1,124 @@
-# 💫 About Me:
-👋 Hi, I’m @cyanorussel aka Anmol Verma.<br> 👀 I’m interested in Full Stack Web Development And Competitive Programming.<br>🌱 I’m currently learning MERN stack.<br>💞️ I’m looking to collaborate on projects related to web dev.<br>📫 How to reach me<br>- you can mail me at anmolrajverma@gmail.com<br>😄 Pronouns: HE/HIM
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:a855f7&height=200&section=header&text=Anmol%20Raj%20Verma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20CSE%20%40%20NIT%20Agartala&descSize=18&descAlignY=55" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anmolrajverma/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anmol-verma-200318abrv) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Anmol-Verma-182) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Obvious-Impression34/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/26146424/anmol-verma) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/22UCS075-Anmol-Verma) 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+AI-powered+products+%F0%9F%A4%96;SDE+Intern+%40+NIC+%26+Entab+Infotech;MERN+%7C+NestJS+%7C+Spring+Boot+%7C+Docker;Always+shipping%2C+always+learning+%E2%9C%A8" alt="Typing SVG" /></a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cyanorussel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cyanorussel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyanorussel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cyanorussel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=cyanorussel&style=for-the-badge&color=22d3ee&label=PROFILE+VISITORS" alt="Profile views" />
+<a href="https://github.com/cyanorussel?tab=followers"><img src="https://img.shields.io/github/followers/cyanorussel?style=for-the-badge&logo=github&color=6366f1&labelColor=0d1117" alt="Followers" /></a>
+<a href="https://anmolvermaporttfolio2003.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cyanorussel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+## 🧬 About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=cyanorussel&icon=6&color=1)](https://visitcount.itsvg.in)
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```typescript
+const anmol = {
+  pronouns: "he/him",
+  education: "B.Tech CSE @ NIT Agartala (2022–2026)",
+  location: "India 🇮🇳",
+  currentFocus: "Full Stack Engineering × Applied AI",
+  experience: [
+    "SDE Intern @ National Informatics Centre (NIC)",
+    "SDE Intern @ Entab Infotech Pvt. Ltd.",
+  ],
+  dailyDrivers: ["TypeScript", "Java", "Python", "C++"],
+  askMeAbout: ["MERN", "NestJS", "Spring Boot", "Docker", "DSA"],
+  funFact: "Debugging is twice as hard as writing the code 🐛",
+};
+```
+
+- 🔭 Currently building **DAKSphere** — an enterprise ML-integration platform (NestJS + PostgreSQL + Docker)
+- 🌱 Deep-diving into **AI/ML integration** and scalable backend architecture
+- ⚡ At NIC I shipped web apps with **Spring Boot, PostgreSQL & JDK 17**; at Entab I optimized REST APIs with **query-level caching**
+- 💬 Love talking about **web dev, system design & competitive programming**
+- 📫 Reach me at **anmolrajverma@gmail.com**
+
+<br clear="right"/>
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts,html,css&theme=dark" alt="Languages" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vue,vite,jquery,threejs&theme=dark" alt="Frontend" />
+
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,graphql,mongodb,postgres,mysql,redis&theme=dark" alt="Backend and databases" />
+
+### ☁️ Cloud, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,nginx,git,github,netlify,vercel,postman,figma,vscode,idea,latex&theme=dark" alt="Cloud and tools" />
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=cyanorussel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyanorussel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&layout=compact&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=cyanorussel&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee" alt="GitHub streak" />
+
+<br/><br/>
+
+## 🏆 Trophy Cabinet
+
+<img src="https://github-profile-trophy.vercel.app/?username=cyanorussel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+
+<br/>
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyanorussel&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=a855f7&point=ffffff&area=true" width="95%" alt="Activity graph" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyanorussel/cyanorussel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyanorussel/cyanorussel/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/cyanorussel/cyanorussel/output/github-snake-dark.svg" alt="Contribution snake" width="95%" />
+</picture>
+
+<br/><br/>
+
+## 🚀 Spotlight Builds
+
+| 💡 Project | 🧩 What it does | 🔧 Stack |
+|:---|:---|:---|
+| **DAKSphere Dashboard** | Enterprise ML-integration platform — multi-instance Docker architecture | `NestJS` `PostgreSQL` `Docker` `TypeScript` |
+| **FARM-CONNECT** | Agri-marketplace with ML demand forecasting for supply chains | `React` `Node.js` `TensorFlow` `Stripe` |
+| **Park & Power** | AI-powered parking finder with real-time pricing & live video | `Next.js` `AWS` `OpenCV` `Python` |
+| **[NITARDS](https://github.com/cyanorussel/NITARDS)** | Full-stack social networking platform for campus | `MERN` `Socket.io` |
+| **[Stock Portfolio](https://github.com/cyanorussel/stock-market-portfolio)** | Comprehensive stock-market portfolio tracker | `JavaScript` `Node.js` |
+
+<br/>
+
+## ✍️ Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+
+<br/>
+
+## 🌐 Let's Connect
+
+<a href="https://www.linkedin.com/in/anmol-verma-200318abrv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:anmolrajverma@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.instagram.com/anmolrajverma/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://stackoverflow.com/users/26146424/anmol-verma"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+<a href="https://www.reddit.com/user/Obvious-Impression34/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+<a href="https://www.quora.com/profile/Anmol-Verma-182"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" /></a>
+<a href="https://codepen.io/22UCS075-Anmol-Verma"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
+
+<br/>
+
+> *"Debugging is twice as hard as writing the code in the first place."* — my daily reality 🐛
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:22d3ee&height=120&section=footer" width="100%" />
+
+</div>
