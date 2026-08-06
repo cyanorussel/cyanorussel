@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:a855f7&height=200&section=header&text=Anmol%20Raj%20Verma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20CSE%20%40%20NIT%20Agartala&descSize=18&descAlignY=55" width="100%" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+AI-powered+products+%F0%9F%A4%96;SDE+Intern+%40+NIC+%26+Entab+Infotech;MERN+%7C+NestJS+%7C+Spring+Boot+%7C+Docker;Always+shipping%2C+always+learning+%E2%9C%A8" alt="Typing SVG" /></a>
+<img src="https://raw.githubusercontent.com/cyanorussel/cyanorussel/main/assets/hero-banner.svg" width="100%" alt="Anmol Raj Verma — Full Stack Developer" />
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/cyanorussel/cyanorussel/main/assets/terminal.svg" width="720" alt="Terminal typing animation" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=cyanorussel&style=for-the-badge&color=22d3ee&label=PROFILE+VISITORS" alt="Profile views" />
 <a href="https://github.com/cyanorussel?tab=followers"><img src="https://img.shields.io/github/followers/cyanorussel?style=for-the-badge&logo=github&color=6366f1&labelColor=0d1117" alt="Followers" /></a>
