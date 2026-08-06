@@ -34,7 +34,6 @@ const anmol = {
 };
 ```
 
-- 🔭 Currently building **DAKSphere** — an enterprise ML-integration platform (NestJS + PostgreSQL + Docker)
 - 🌱 Deep-diving into **AI/ML integration** and scalable backend architecture
 - ⚡ At NIC I shipped web apps with **Spring Boot, PostgreSQL & JDK 17**; at Entab I optimized REST APIs with **query-level caching**
 - 💬 Love talking about **web dev, system design & competitive programming**
