@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cyanorussel/cyanorussel/main/assets/hero-banner.svg?v=2" width="100%" alt="Anmol Raj Verma — Full Stack Developer" />
+<img src="https://raw.githubusercontent.com/cyanorussel/cyanorussel/main/assets/hero-banner.svg?v=3" width="100%" alt="Anmol Verma — Full Stack Developer" />
 
 <br/>
 
