@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cyanorussel/cyanorussel/main/assets/hero-banner.svg" width="100%" alt="Anmol Raj Verma — Full Stack Developer" />
+<img src="https://raw.githubusercontent.com/cyanorussel/cyanorussel/main/assets/hero-banner.svg?v=2" width="100%" alt="Anmol Raj Verma — Full Stack Developer" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/cyanorussel/cyanorussel/main/assets/terminal.svg" width="720" alt="Terminal typing animation" />
+<img src="https://raw.githubusercontent.com/cyanorussel/cyanorussel/main/assets/terminal.svg?v=2" width="720" alt="Terminal typing animation" />
 
 <br/><br/>
 
@@ -82,9 +82,9 @@ const anmol = {
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyanorussel/cyanorussel/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyanorussel/cyanorussel/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/cyanorussel/cyanorussel/output/github-snake-dark.svg" alt="Contribution snake" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyanorussel/cyanorussel/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyanorussel/cyanorussel/output/github-snake.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/cyanorussel/cyanorussel/output/github-snake-dark.svg?v=2" alt="Contribution snake" width="95%" />
 </picture>
 
 <br/><br/>
