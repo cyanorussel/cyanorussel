@@ -92,7 +92,6 @@ const anmol = {
 
 | 💡 Project | 🧩 What it does | 🔧 Stack |
 |:---|:---|:---|
-| **DAKSphere Dashboard** | Enterprise ML-integration platform — multi-instance Docker architecture | `NestJS` `PostgreSQL` `Docker` `TypeScript` |
 | **FARM-CONNECT** | Agri-marketplace with ML demand forecasting for supply chains | `React` `Node.js` `TensorFlow` `Stripe` |
 | **Park & Power** | AI-powered parking finder with real-time pricing & live video | `Next.js` `AWS` `OpenCV` `Python` |
 | **[NITARDS](https://github.com/cyanorussel/NITARDS)** | Full-stack social networking platform for campus | `MERN` `Socket.io` |
